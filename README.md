@@ -189,11 +189,11 @@ Extract community? Help us keep it alive by donating funds to cover project expe
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [🔥 Artemis II Live Mission Map &lpar;Orion&rpar; | Day 5 -](https://www.youtube.com/watch?v=ChmaNMHU9CQ)
-- [OptiGrid – Optical Illusion Pattern Generator](https://www.youtube.com/shorts/uJ_X90zbwUQ)
-- [Gemini 3.1 Nano Banana 2 - AI Photoshop Plugin jsxNanaBananaPro v0.6.4](https://www.youtube.com/watch?v=GtspFSN7VlI)
-- [How To Change The Thumbnail for Shorts using the YouTube app for iOS #youtube #techtips #tutorial](https://www.youtube.com/shorts/_1UBbKtWUT4)
-- [🍌 Photoshop Plugin for Gemini 3 Pro Nano Banana #photoshop #photoshoptutorial](https://www.youtube.com/shorts/lIJcYdDSH5M)
+- [Google Nano Banana Lite is HERE! ⚡ jsxNanaBanana v0.7.0 ⚡ Photoshop Plugin](https://www.youtube.com/watch?v=aCH-F9B5KR0)
+- [How to Clean a Shower Head Naturally in Minutes | Easy DIY Cleaning Hack](https://www.youtube.com/watch?v=oxcVQbRQzu4)
+- [What the Powerful Organizations In the World? #movie #shorts](https://www.youtube.com/shorts/d3P2Qne-0Aw)
+- [What the Most Secret and Powerful Organizations in the World?](https://www.youtube.com/watch?v=x5BWEIFBXGs)
+- [This $1 Cleaning Trick. How to Clean Your Philips Sonicare 7100 Toothbrush | Kill 99% of Bacteria](https://www.youtube.com/watch?v=ZG9nB1pD0YA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
